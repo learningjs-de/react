@@ -1,0 +1,23 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "React: Das umfassende Handbuch",
+            "author": "Sebastian Springer",
+            "isbn": "978-3836268776",
+            "rating": 5
+        }, {
+            "id": 2,
+            "title": "Node.js: Das umfassende Handbuch",
+            "author": "Sebastian Springer",
+            "isbn": "978-3836262552",
+            "rating": 5
+        }, {
+            "id": 3,
+            "title": "JavaScript: Das umfassende Handbuch",
+            "author": "Philip Ackermann",
+            "isbn": "978-3836256964",
+            "rating": 5
+        }
+    ]
+}
