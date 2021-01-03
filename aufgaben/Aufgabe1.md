@@ -1,8 +1,8 @@
 # Einfache Listendarstellung
 
-* Erzeuge eine Komponente mit dem Namen List
-* Diese Komponente soll alle Daten über die fetch-API des Browsers vom Backend (http://localhost:8080/books) laden
-* Die Datensätze sollen in einer Tabelle dargestellt werden
+* Erzeuge eine Komponente mit dem Namen List im src-Verzeichnis der Applikation.
+* Diese Komponente soll alle Daten über die fetch-API des Browsers vom Backend (http://localhost:8080/books) laden.
+* Die Datensätze sollen in einer Tabelle dargestellt werden.
 * Informationen die angezeigt werden sollen:
   * title: Der Titel des Buchs
   * author: Der Autor
@@ -14,15 +14,15 @@
 * Die Zellen der Tabelle müssen jeweils eine Eigenschaft `data-testid` mit ihrem Typ enthalten. Also für title dann die Eigenschaft `data-testid="title"`
 * Vorbereitung:
   * Das Projekt lokal klonen
-* Backend starten: 
+* **Backend** starten: 
   * Eine eigenständige Konsole öffnen.
-  * Auf der Konsole in das Verzeichnis bookshelf wechseln
+  * Auf der Konsole in das Verzeichnis backend wechseln
   * `npm run backend` eingeben
-* Frontend starten:
+* **Frontend** starten:
   * Eine eigenständige Konsole öffnen.
   * Auf der Konsole in das Verzeichnis bookshelf wechseln
   * `npm start` eingeben
-* Aufgabenlösung überprüfen:
+* **Aufgabenlösung überprüfen**:
   * Eine eigenständige Konsole öffnen.
   * Auf der Konsole in das Verzeichnis bookshelf wechseln
   * `npm test aufgabe1` eingeben
